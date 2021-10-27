@@ -9,7 +9,7 @@ COLORPAD = {
     "darkcyan" : '\033[36m',
     "blue" : '\033[94m',
     "green" : '\033[92m',
-    "yello" : '\033[93m',
+    "yellow" : '\033[93m',
     "red" : '\033[91m',
     "bold" : '\033[1m',
     "underline" : '\033[4m',

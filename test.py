@@ -1,5 +1,9 @@
-from pycolorpint import ColorPrinter
+from pycolorpint import ColorPrinter as c
 
-ColorPrinter.print("""
-    [hello! :red]
-""", True)
+c.print("""
+    [hello! this is red:red]
+""")
+
+c.print("""
+    [hello! this is bold:bold]
+""")
