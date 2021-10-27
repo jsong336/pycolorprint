@@ -3,7 +3,7 @@
 Simple utility wrapper on `print` for colorful text. 
 
 ```python
-from pycolorpint import ColorPrinter as c
+from pycolorprint import ColorPrinter as c
 
 c.print("""
     [hello! this is red:red]
