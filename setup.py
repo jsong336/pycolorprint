@@ -11,12 +11,12 @@ setup(
     description="Colorful print formatter",
     long_description=readme,
     long_description_content_type="text/markdown",
-    # url="https://github.com/jsong336/pycolorprint",
-    # classifiers=[
-    #     "Programming Language :: Python :: 3",
-    #     "License :: OSI Approved :: MIT License",
-    #     "Operating System :: OS Independent",
-    # ],
-    # python_requires=">=3.8",
-    # package_data={"":[""]},
+    url="https://github.com/jsong336/pycolorprint",
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ],
+    python_requires=">=3.8",
+    package_data={"":[""]},
 )
