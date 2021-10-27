@@ -1,2 +1,2 @@
-from .color import ColorPrinter
+from pycolorprint.color import ColorPrinter
 
