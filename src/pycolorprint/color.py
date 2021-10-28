@@ -16,7 +16,7 @@ COLORPAD = {
     "end" : '\033[0m'
 }
 
-RE_COLOR_MATCH = re.compile('\[([a-zA-Z0-9,.?!-+:\(\)\s+]+):([a-z]{3,10})\]')
+RE_COLOR_MATCH = re.compile('\[([a-zA-Z0-9,.?!\-+:\(\)\s+]+):([a-z]{3,10})\]')
 
 class ColorPrinter:
     @staticmethod
