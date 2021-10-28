@@ -19,5 +19,6 @@ setup(
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.7",
-    packages=find_packages()
+    packages=find_packages(where='src'),
+    package_dir={'': 'src'},
 )
